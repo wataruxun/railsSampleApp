@@ -70,3 +70,6 @@ gem 'bootstrap-sass', '3.3.7'
 
 # integration Test
 gem 'rails-controller-testing'
+
+# password management
+gem 'bcrypt', '3.1.12'
